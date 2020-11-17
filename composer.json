@@ -1,0 +1,22 @@
+{
+    "name": "tailieuweb/training-module",
+    "description": "For testing",
+    "keywords": [
+        "tailieuweb"
+    ],
+    "authors": [
+        {
+            "name": "tailieuweb",
+            "email": "tailieuweb.com@gmail.com"           
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "tailieuweb\\module\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
